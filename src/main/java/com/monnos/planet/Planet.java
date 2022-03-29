@@ -1,4 +1,4 @@
-package com.monnos;
+package com.monnos.planet;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 
